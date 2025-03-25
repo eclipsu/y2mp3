@@ -1,6 +1,9 @@
 # YouTube to MP3 Downloader (y2mp3)
 
-2. Clone or download this repository to your local machine.
+### Installation
+
+1. Clone or download this repository to your local machine.
+2. Open `install.bat` to set up the script automatically.
 
 ## Usage
 
@@ -19,20 +22,26 @@
 ## Example Output
 
 ```
-🎵 Fast Youtube to Mp3 🎵
-===================================
-Downloaded files will be saved in: /Users/yourname/Downloads/Music
-Type 'EXIT' to stop the program.
+==============================================
+             FAST YOUTUBE TO MP3
+==============================================
+Download Location: /Users/yourname/Downloads/Music
 
 Enter the Song Name (or type 'EXIT' to quit):
 >> MAPS
 
-🔍 Fetching song: Yeah Yeah Yeahs - Maps (Official Music Video) by YeahYeahYeahsVEVO (4:20)
-📥 Downloading...
-✅ 'Yeah Yeah Yeahs - Maps (Official Music Video)' has been successfully downloaded!
-===================================
+[INFO] Searching for: Yeah Yeah Yeahs - Maps (Official Music Video)
+--------------------------------------------------
+| Title:   Yeah Yeah Yeahs - Maps                |
+| Author:  YeahYeahYeahsVEVO                    |
+| Duration: 4:20                                 |
+--------------------------------------------------
+
+[INFO] Downloading...
+[SUCCESS] Download Complete: Yeah Yeah Yeahs - Maps
+==============================================
 ```
 
-## Contributing
+### Contributing
 
 Feel free to fork this repository, make changes, and submit pull requests. Any improvements or bug fixes are welcome.
